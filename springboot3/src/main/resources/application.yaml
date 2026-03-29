@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: springboot3
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    com.example: INFO
